@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Anuj+Paudel;Building+real-world+projects+with+passion;Python+%7C+React+%7C+Full-stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=70&lines=Anuj+Paudel;Building+real-world+projects+with+passion;Python+%7C+React+%7C+Full-stack"/>
 </p>
 
 ---
