@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=32&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
+</p>
 
 <p align="center">
   <a href="https://x.com/danuzz69" target="_blank">
@@ -15,40 +15,13 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,mysql,mongodb,git,docker,pandas,numpy,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,mysql,mongodb,git,docker,pandas,numpy" />
 </p>
 
 ---
 
 ## ⚡ Currently building
-FastAPI APIs · Data Science · Experimental APIs · Practical projects
-
----
-
-## 🗂 Featured Work
-<div align="center" style="display:flex; overflow-x:auto; gap:24px; padding:16px;">
-
-<!-- Card: Mamacita -->
-<div style="flex:0 0 auto; background: linear-gradient(135deg,#ffecd2,#fcb69f); border-radius:12px; padding:16px; min-width:300px;">
-<h3>🌟 Mamacita</h3>
-<p>My main portfolio project — FastAPI + Frontend integration.</p>
-<p>⚠️ Repo might show “not found” error — check [here](https://github.com/Anuzzzzzzzz/Mamacita)</p>
-<p>
-  <img src="https://img.shields.io/github/stars/Anuzzzzzzzz/Mamacita?style=flat&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/github/forks/Anuzzzzzzzz/Mamacita?style=flat&logo=github&label=Forks"/>
-  <img src="https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi&logoColor=white"/>
-</p>
-<p>🔗 <a href="https://github.com/Anuzzzzzzzz/Mamacita">View Repo</a></p>
-</div>
-
-<!-- Other repos placeholder -->
-<div style="flex:0 0 auto; background: linear-gradient(135deg,#cfd9df,#e2ebf0); border-radius:12px; padding:16px; min-width:300px;">
-<h3>📂 Other Repos</h3>
-<p>Check out all my repositories for more projects & experiments.</p>
-<p>🔗 <a href="https://github.com/Anuzzzzzzzz?tab=repositories">See all repos →</a></p>
-</div>
-
-</div>
+FastAPI APIs + Data Science projects. Clean code. Real progress.
 
 ---
 
@@ -71,18 +44,89 @@ FastAPI APIs · Data Science · Experimental APIs · Practical projects
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,mysql,mongodb,git,docker,pandas,numpy,jupyter"/>
-</p>
+# 🗂 Featured Repositories
+
+> Scroll down to explore. New → Old.  
+> Top projects I built to learn & ship.  
+
+### 🔥 TOS-DataScience (Branch: anuz)
+<img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/DataScience-000?style=flat&logo=pandas&logoColor=white"/>
+
+**Description:** Learning + projects inside TOS DataScience curriculum.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/TOS-DataScience/tree/anuz)
 
 ---
 
-## 📬 Contact Me
+### ⚽ footy-insights
+<img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white"/>
+
+**Description:** Football analytics project with interactive insights.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/footy-insights)
+
+---
+
+### 🛒 ebuyy
+<img src="https://img.shields.io/badge/Dart-000?style=flat&logo=dart&logoColor=white"/>
+
+**Description:** E-commerce platform to learn backend & UI integration.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/ebuyy)
+
+---
+
+### 🛍 ebuy-final-ebuy
+<img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white"/>
+
+**Description:** Front-end improvements & features.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/ebuy-final-ebuy)
+
+---
+
+### 📊 footballindi.project
+<img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas&logoColor=white"/>
+
+**Description:** Python project analyzing football data.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/footballindi.project)
+
+---
+
+### 🔐 security
+<img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white"/>
+
+**Description:** Security tools & JS utilities.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/security)
+
+---
+
+### 🧩 userexp
+<img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white"/>
+
+**Description:** User experience enhancements & TypeScript app.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/userexp)
+
+---
+
+### 🧪 batch32a-Anuzzzzzzzz
+<img src="https://img.shields.io/badge/Objective--C-000?style=flat&logo=apple&logoColor=white"/>
+
+**Description:** GitHub Classroom Objective-C project.  
+
+🔗 [View Repo](https://github.com/Anuzzzzzzzz/batch32a-Anuzzzzzzzz)
+
+---
+
 <p align="center">
-  <a href="mailto:anujpaudel@example.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://x.com/danuzz69">X</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/">LinkedIn</a>
+  🔗 [See all repos →](https://github.com/Anuzzzzzzzz?tab=repositories)
 </p>
 
 ---
