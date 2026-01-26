@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=41&duration=2500&pause=400&color=%23005555&center=true&vCenter=true&width=850&height=100&lines=Can you keep it simple?" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=41&duration=2500&pause=400&color=%23005555&center=true&vCenter=true&width=850&height=100&lines=Can+you+keep+it+simple?" />
 </h2>
 
 ---
