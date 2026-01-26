@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=36&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=45&duration=3000&pause=500&color=#008080&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
 </h1>
 
-<p align="center" style="font-size:68px; color:#555555;">
-   Could you keep it simple?  
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=36&duration=3000&pause=500&color=#065535&center=true&vCenter=true&width=900&lines=Could you keep it simple?" />
+</h1>
 
 
 
@@ -47,7 +48,3 @@
 
 
 
-
-<p align="center" style="font-size:56px; color:#888888;">
-  <sub>Learning. Building.</sub>
-</p>
