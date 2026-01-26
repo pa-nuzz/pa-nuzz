@@ -1,14 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=50&duration=3000&pause=400&color=%2300C8C8&center=true&vCenter=true&width=900&height=120&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=55&duration=3000&pause=400&color=%2300C8C8&center=true&vCenter=true&width=900&height=120&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=38&duration=2500&pause=400&color=%23005555&center=true&vCenter=true&width=850&height=100&lines=Keep+it+simple.+Code+speaks." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=41&duration=2500&pause=400&color=%23005555&center=true&vCenter=true&width=850&height=100&lines=Can you keep it simple?" />
 </h2>
 
 ---
-
-## 🛠
 
 <p align="center" style="margin-bottom:15px;">
   <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css" height="50"/>
