@@ -1,5 +1,5 @@
 <h1 align="center" style="position:relative;">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=.+.+.+.;Anuj+Paudel;.+.+.+.;Exploring;+.+.+.;Learning&colors=%23ff6a00,%23ffb347,%23f3ff00,%2300ffcc,%2300bfff,%239b59b6,%23ff4b1f" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;.+.+.+.;Exploring;.+.+.+.;Learning&colors=%23ff6a00,%23ffb347,%23f3ff00,%2300ffcc,%2300bfff,%239b59b6,%23ff4b1f" />
 </h1>
 
 
