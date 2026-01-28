@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" height="50" alt="sparkle" />
+</p>
+
+<p align="center">
   <sub style="font-size:16px; color:#555555;"> | Enthusiast | Learning | </sub>
 </p>
 
@@ -13,18 +17,22 @@
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-top:15px;">
 
   <!-- Card 1 -->
-  <div style="text-align:center; border-radius:15px; padding:15px; background:#e6f7ff; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
-    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px;" />
+  <div style="text-align:center; border-radius:15px; padding:20px; background:#e6f7ff; box-shadow:0 6px 18px rgba(0,0,0,0.12); position:relative;">
+    <!-- subtle GIF overlay -->
+    <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" height="100%" style="position:absolute; top:0; left:0; width:100%; opacity:0.1; border-radius:15px; z-index:0;" />
+    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px; position:relative; z-index:1;" />
   </div>
 
   <!-- Card 2 -->
-  <div style="text-align:center; border-radius:15px; padding:15px; background:#fffaf0; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px;" />
+  <div style="text-align:center; border-radius:15px; padding:20px; background:#fffaf0; box-shadow:0 6px 18px rgba(0,0,0,0.12); position:relative;">
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="100%" style="position:absolute; top:0; left:0; width:100%; opacity:0.1; border-radius:15px; z-index:0;" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px; position:relative; z-index:1;" />
   </div>
 
   <!-- Card 3 -->
-  <div style="text-align:center; border-radius:15px; padding:15px; background:#d0ffd8; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px;" />
+  <div style="text-align:center; border-radius:15px; padding:20px; background:#d0ffd8; box-shadow:0 6px 18px rgba(0,0,0,0.12); position:relative;">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="100%" style="position:absolute; top:0; left:0; width:100%; opacity:0.1; border-radius:15px; z-index:0;" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px; position:relative; z-index:1;" />
   </div>
 
 </div>
