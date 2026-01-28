@@ -16,39 +16,52 @@
   <div style="text-align:center; border-radius:15px; padding:20px; background:#e6f7ff; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.2)';"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </div>
 
   <!-- Row 2 -->
   <div style="text-align:center; border-radius:15px; padding:20px; background:#fffaf0; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.2)';"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </div>
 
   <!-- Row 3 -->
   <div style="text-align:center; border-radius:15px; padding:20px; background:#f0fff0; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.2)';"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </div>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Projects
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:20px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-top:20px;">
 
-  <div style="border-radius:15px; padding:15px; background:#f9f9f9; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:all 0.3s;">
-    <h4>Top Languages</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuzzzzzzzz&layout=compact&theme=transparent&hide_border=true" />
+  <!-- Project 1 -->
+  <div style="background:#e0f7fa; border-radius:15px; width:250px; padding:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s; cursor:pointer;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.25)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.15)';">
+    <img src="https://media.giphy.com/media/L0v0vRrF0T8xCX5q6r/giphy.gif" width="100%" style="border-radius:10px;"/>
+    <h4>Footy Insights</h4>
+    <p style="font-size:14px;">UEFA Euro match prediction platform with AI visualization.</p>
+    <a href="https://github.com/Anuzzzzzzzz/footy-insights">View Repo</a>
   </div>
 
-  <div style="border-radius:15px; padding:15px; background:#f9f9f9; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:all 0.3s;">
-    <h4>GitHub Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=Anuzzzzzzzz&show_icons=true&theme=transparent&hide_border=true" />
+  <!-- Project 2 -->
+  <div style="background:#fff0f5; border-radius:15px; width:250px; padding:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s; cursor:pointer;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.25)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.15)';">
+    <img src="https://media.giphy.com/media/3o7TKD0d8wT0hTgjvK/giphy.gif" width="100%" style="border-radius:10px;"/>
+    <h4>Data Cleaning API</h4>
+    <p style="font-size:14px;">FastAPI + Pandas project to clean and serve employee data.</p>
+    <a href="https://github.com/Anuzzzzzzzz/data-cleaning-api">View Repo</a>
   </div>
 
 </div>
