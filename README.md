@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="margin-bottom:15px;">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50"/>
 </p>
 
 <p align="center" style="margin-bottom:15px;">
