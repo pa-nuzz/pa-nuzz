@@ -13,31 +13,18 @@
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-top:15px;">
 
   <!-- Card 1 -->
-  <div style="position:relative; text-align:center; border-radius:15px; padding:20px; background:#e6f7ff; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer; overflow:hidden;"
-       onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.25)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <!-- Glow animation -->
-    <div style="position:absolute; top:-50%; left:-50%; width:200%; height:200%; background:radial-gradient(circle, rgba(0,200,200,0.2) 0%, transparent 70%); animation: glow 3s infinite alternate;"></div>
-    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px; transition: transform 0.3s; z-index:1; position:relative;" 
-         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <div style="text-align:center; border-radius:15px; padding:15px; background:#e6f7ff; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
+    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px;" />
   </div>
 
   <!-- Card 2 -->
-  <div style="position:relative; text-align:center; border-radius:15px; padding:20px; background:#fffaf0; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer; overflow:hidden;"
-       onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.25)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <div style="position:absolute; top:-50%; left:-50%; width:200%; height:200%; background:radial-gradient(circle, rgba(255,200,0,0.2) 0%, transparent 70%); animation: glow 3s infinite alternate;"></div>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px; transition: transform 0.3s; z-index:1; position:relative;" 
-         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <div style="text-align:center; border-radius:15px; padding:15px; background:#fffaf0; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px;" />
   </div>
 
-  <!-- Card 3 (fixed visibility for pandas, numpy, git, jupyter, docker) -->
-  <div style="position:relative; text-align:center; border-radius:15px; padding:20px; background:#d0ffd8; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer; overflow:hidden;"
-       onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.25)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <div style="position:absolute; top:-50%; left:-50%; width:200%; height:200%; background:radial-gradient(circle, rgba(0,200,0,0.15) 0%, transparent 70%); animation: glow 3s infinite alternate;"></div>
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px; transition: transform 0.3s; filter:brightness(1.3); z-index:1; position:relative;"
-         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <!-- Card 3 -->
+  <div style="text-align:center; border-radius:15px; padding:15px; background:#d0ffd8; box-shadow:0 6px 18px rgba(0,0,0,0.12);">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px;" />
   </div>
 
 </div>
@@ -64,12 +51,3 @@
 <p align="center" style="font-size:16px; color:#555555; margin-top:20px;">
   <sub>Danuzz 🚀</sub>
 </p>
-
-<!-- Glow animation keyframes -->
-<style>
-@keyframes glow {
-  0% { transform: scale(1) rotate(0deg); opacity:0.6; }
-  50% { transform: scale(1.1) rotate(45deg); opacity:0.9; }
-  100% { transform: scale(1) rotate(0deg); opacity:0.6; }
-}
-</style>
