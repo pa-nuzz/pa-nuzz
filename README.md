@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <sub style="font-size:16px; color:#555555;">Full Stack Developer | Data Enthusiast | Open Source Lover</sub>
+  <sub style="font-size:16px; color:#555555;"> |  Enthusiast | Learning</sub>
 </p>
 
 ---
@@ -30,38 +30,13 @@
   <div style="text-align:center; border-radius:15px; padding:15px; background:#fffaf0; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
        onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
     <h4>Data & Tools</h4>
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px;" />
+    <img src="https://skillicons.dev/icons?i=jupyter,docker,pandas,numpy,git" height="50" style="margin:5px;" />
   </div>
 
 </div>
 
 ---
 
-## 🗂 Featured Work
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; margin-top:20px;">
-
-  <!-- Project 1 -->
-  <div style="background:#e0f7fa; border-radius:15px; width:250px; padding:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;" 
-       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
-    <img src="https://media.giphy.com/media/L0v0vRrF0T8xCX5q6r/giphy.gif" width="100%" style="border-radius:10px;"/>
-    <h4>Footy Insights</h4>
-    <p>UEFA Euro match prediction platform with AI visualization.</p>
-    <a href="https://github.com/Anuzzzzzzzz/footy-insights">View Repo</a>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="background:#fce4ec; border-radius:15px; width:250px; padding:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;" 
-       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
-    <img src="https://media.giphy.com/media/3o7TKD0d8wT0hTgjvK/giphy.gif" width="100%" style="border-radius:10px;"/>
-    <h4>Data Cleaning API</h4>
-    <p>FastAPI + Pandas project to clean and serve employee data.</p>
-    <a href="https://github.com/Anuzzzzzzzz/data-cleaning-api">View Repo</a>
-  </div>
-
-</div>
-
----
 
 ## 📬 Contact Me
 
@@ -81,5 +56,5 @@
 </p>
 
 <p align="center" style="font-size:16px; color:#555555; margin-top:20px;">
-  <sub>Designed & Coded by Anuj Paudel 🚀</sub>
+  <sub>Danuzz 🚀</sub>
 </p>
