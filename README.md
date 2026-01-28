@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <sub style="font-size:16px; color:#555555;"> |  Enthusiast | Learning</sub>
+  <sub style="font-size:16px; color:#555555;"> | Enthusiast | Learning | </sub>
 </p>
 
 ---
@@ -12,31 +12,48 @@
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-  <!-- Frontend -->
-  <div style="text-align:center; border-radius:15px; padding:15px; background:#f0f8ff; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
-       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
-    <h4>Frontend</h4>
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="50" style="margin:5px;" />
+  <!-- Row 1 -->
+  <div style="text-align:center; border-radius:15px; padding:20px; background:#e6f7ff; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.2)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
+    <img src="https://skillicons.dev/icons?i=react,html,css" height="50" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </div>
 
-  <!-- Backend -->
-  <div style="text-align:center; border-radius:15px; padding:15px; background:#fff0f5; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
-       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
-    <h4>Backend</h4>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mysql,mongodb" height="50" style="margin:5px;" />
+  <!-- Row 2 -->
+  <div style="text-align:center; border-radius:15px; padding:20px; background:#fffaf0; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.2)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </div>
 
-  <!-- Data & Tools -->
-  <div style="text-align:center; border-radius:15px; padding:15px; background:#fffaf0; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
-       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
-    <h4>Data & Tools</h4>
-    <img src="https://skillicons.dev/icons?i=jupyter,docker,pandas,numpy,git" height="50" style="margin:5px;" />
+  <!-- Row 3 -->
+  <div style="text-align:center; border-radius:15px; padding:20px; background:#f0fff0; box-shadow:0 6px 18px rgba(0,0,0,0.12); transition:all 0.3s; cursor:pointer;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.2)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </div>
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:20px;">
+
+  <div style="border-radius:15px; padding:15px; background:#f9f9f9; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:all 0.3s;">
+    <h4>Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuzzzzzzzz&layout=compact&theme=transparent&hide_border=true" />
+  </div>
+
+  <div style="border-radius:15px; padding:15px; background:#f9f9f9; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:all 0.3s;">
+    <h4>GitHub Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anuzzzzzzzz&show_icons=true&theme=transparent&hide_border=true" />
+  </div>
+
+</div>
+
+---
 
 ## 📬 Contact Me
 
