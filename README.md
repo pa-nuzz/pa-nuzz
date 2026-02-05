@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/">
     <img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/pa-nuzz">
+  <a href="https://github.com/Anuzzzzzzzz">
     <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/danuzz69">
