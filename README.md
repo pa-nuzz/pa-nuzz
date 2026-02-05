@@ -1,70 +1,76 @@
-<h1 align="center" style="position:relative;">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;.+.+.+.;Exploring;.+.+.+.;Learning&colors=%23ff6a00,%23ffb347,%23f3ff00,%2300ffcc,%2300bfff,%239b59b6,%23ff4b1f" />
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=58&duration=3000&pause=500&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;Exploring+Ideas;Learning+Every+Day&colors=%23ff6a00,%23ffb347,%2300ffcc,%239b59b6,%23ff4b1f" 
+    alt="Typing SVG"
+  />
 </h1>
 
+<p align="center">
+  <b>Builder • Learner • Explorer</b><br/>
+  Turning ideas into code, one repo at a time 🚀
+</p>
 
-## 💻 Tech & Tools
+---
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
+## 👋 About Me
 
-  <!-- Card 1: Languages & Frameworks -->
-  <div style="text-align:left; border-radius:20px; padding:25px; background:linear-gradient(135deg, #ff6a00, #ffb347); box-shadow:0 6px 18px rgba(0,0,0,0.12); flex: 1 1 240px; transition: transform 0.3s;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.2)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=python" height="55" style="margin:5px;" />
-  </div>
+Hey! I’m **Anuj Paudel** (aka **Danuzz**).
 
-  <!-- Card 2: Backend & Database -->
-  <div style="text-align:left; border-radius:20px; padding:25px; background:linear-gradient(135deg, #f3ff00, #00ffcc); box-shadow:0 6px 18px rgba(0,0,0,0.12); flex: 1 1 240px; transition: transform 0.3s;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.2)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="55" style="margin:5px;" />
-  </div>
+- 🧠 Curious about systems, APIs, and automation  
+- 🐍 Mostly working with **Python & FastAPI**  
+- 🛠️ Building projects to learn by doing  
+- 🌱 Currently exploring backend + AI tooling  
+- ⚡ I like clean code, clean UI, and clean commits  
 
-  <!-- Card 3: Dev Tools -->
-  <div style="text-align:left; border-radius:20px; padding:25px; background:linear-gradient(135deg, #00bfff, #9b59b6); box-shadow:0 6px 18px rgba(0,0,0,0.12); flex: 1 1 240px; transition: transform 0.3s;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.2)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,pycharm,vscode" height="55" style="margin:5px;" />
-  </div>
+---
 
-  <!-- Card 4: AI & Productivity -->
-  <div style="text-align:left; border-radius:20px; padding:25px; background:linear-gradient(135deg, #ff4b1f, #ff9068); box-shadow:0 6px 18px rgba(0,0,0,0.12); flex: 1 1 240px; transition: transform 0.3s;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.2)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=ai,figma,discord" height="55" style="margin:5px;" />
-  </div>
+## 💻 Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,github,githubactions,vscode,pycharm,figma,discord,ai&perline=9" />
+</p>
 
-## Danuzz 🚀
+---
 
-<!-- Contact badges, left-aligned like tech cards -->
-<div style="display:flex; flex-wrap:wrap; gap:15px; margin-top:15px;">
+## 📌 What I’m Working On
 
-  <a href="mailto:anujpaudel@gmail.com" style="transition: transform 0.3s; flex: 1 1 220px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-           onmouseover="this.style.transform='scale(1.1)';" 
-           onmouseout="this.style.transform='scale(1)';"/>
+- 📄 **Document processing & APIs**
+- 🔗 **FastAPI backends**
+- 🤖 **AI-assisted workflows**
+- ⚙️ **Automation & tooling**
+- 🧪 Learning by breaking things (then fixing them)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuzzzzzzzz&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuzzzzzzzz&theme=transparent&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🚀 Danuzz — Let’s Connect
+
+<p align="center">
+  <a href="mailto:anujpaudel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/" style="transition: transform 0.3s; flex: 1 1 220px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-           onmouseover="this.style.transform='scale(1.1)';" 
-           onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://github.com/Anuzzzzzzzz" style="transition: transform 0.3s; flex: 1 1 220px;">
-      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" 
-           onmouseover="this.style.transform='scale(1.1)';" 
-           onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://github.com/Anuzzzzzzzz">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="https://x.com/danuzz69" style="transition: transform 0.3s; flex: 1 1 220px;">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" 
-           onmouseover="this.style.transform='scale(1.1)';" 
-           onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://x.com/danuzz69">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <i>“Learning never exhausts the mind — it just refactors it.”</i> ✨
+</p>
 
