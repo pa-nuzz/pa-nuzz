@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=58&duration=3000&pause=500&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;Exploring+Ideas;Learning+Every+Day&colors=%23ff6a00,%23ffb347,%2300ffcc,%239b59b6,%23ff4b1f" 
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=58&duration=3000&pause=500&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;+.+.+.+.;+.+.+.+.&colors=%23ff6a00,%23ffb347,%2300ffcc,%239b59b6,%23ff4b1f" 
     alt="Typing SVG"
   />
 </h1>
