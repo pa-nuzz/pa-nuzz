@@ -1,15 +1,12 @@
-<h1 align="left" style="font-family:'Fira Code', monospace; font-size:56px; color:#222222; border-left:6px solid #ff6a00; padding-left:12px;">
+<h1 align="left" style="font-family:'Fira Code', monospace; font-size:64px; color:#222222; margin-bottom:6px; border-left:6px solid #ff6a00; padding-left:10px;">
   Anuj Paudel
 </h1>
-<p align="left" style="color:#555555; font-size:18px; margin-top:4px;">
-  Builder • Learner • Explorer
-</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,github,githubactions,vscode,pycharm,figma,ai&theme=dark&perline=9" />
 </p>
 
----
+
 
 ## **📌 What I’m Working On**
 
@@ -18,7 +15,7 @@
 - **⚙️ Automation & tooling**  
 - **🔗 FastAPI backends**  
 
----
+
 
 ## 🚀 Danuzz
 
