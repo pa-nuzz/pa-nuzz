@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>• Learner </b><br/>
+  <b>Learner </b><br/>
 </p>
 
 ## 💻 Tech Stack
