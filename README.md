@@ -9,9 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=pa-nuzz&color=1f1f1f&style=flat-square&label=PROFILE+VIEWS" />
 
 <br><br>
-
 <!-- TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00FFAA&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+automate+real+businesses;RAG+%E2%80%A2+Agents+%E2%80%A2+MCP+%E2%80%A2+FastAPI;Production-grade+backend+and+automation+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00FFAA&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+automate+real-world+businesses;RAG+%E2%80%A2+AI+Agents+%E2%80%A2+MCP+Orchestration+%E2%80%A2+FastAPI;Production-grade+automation+and+backend+systems;Scalable+AI+workflows+for+modern+products" />
 
 <br><br> <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,githubactions,vscode,pycharm,figma&theme=dark&perline=5" /> <br><br> <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor&theme=dark" /> <br><br>
 <!-- SPECIALIZATIONS -->
