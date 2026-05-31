@@ -16,12 +16,10 @@
 <br><br>
 
 <!-- CORE STACK -->
-<p><b>Mosylt Used Stack</b></p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,vscode,figma&theme=dark&perline=4" />
 
 <br><br>
 <!-- AI TOOLS -->
-<p><b>AI Tools</b></p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor&theme=dark" />
 
 <br><br>
@@ -47,10 +45,7 @@
 
 <br><br>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=pa-nuzz&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
 
-<br><br>
 
 <!-- DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=2a2a2a" />
