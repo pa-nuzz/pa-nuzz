@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=00C853&center=true&vCenter=true&width=850&lines=Orchestrating+AI+systems+%E2%80%A2+AI+Agents+%E2%80%A2+MCP+%E2%80%A2+Backend+%E2%80%A2+AI+Workflows" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=00C853&center=true&vCenter=true&width=850&lines=Orchestrating+AI+systems+%E2%80%A2+Agents+%E2%80%A2+MCP+%E2%80%A2+Backend+%E2%80%A2+Workflows" />
 
 <br><br>
 
