@@ -10,8 +10,6 @@
 
 <br><br>
 
-<!-- TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=00C853&center=true&vCenter=true&width=850&lines=Orchestrating+AI+systems+%E2%80%A2+Agents+%E2%80%A2+MCP+%E2%80%A2+Backend+%E2%80%A2+Workflows" />
 
 <br><br>
 
@@ -25,13 +23,13 @@
 <br><br>
 
 <!-- SPECIALIZATIONS -->
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP%20Orchestration-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge" />
-</p>
+</p> -->
 
 <br>
 
